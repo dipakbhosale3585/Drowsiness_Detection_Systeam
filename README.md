@@ -1,1 +1,2 @@
 # Drowsiness_Detection_System
+This project is a real-time drowsiness detection system that uses computer vision techniques to monitor and analyze the driver's eye movements. It leverages OpenCV and a pre-trained deep learning model to detect eye closure duration and yawning, alerting the user when signs of drowsiness are detected. The system helps improve driver safety by providing timely warnings to prevent accidents due to fatigue.
